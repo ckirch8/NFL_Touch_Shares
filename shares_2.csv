@@ -1,0 +1,502 @@
+New England Patriots
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Cam Newton,qb,2,26,0,0,26,13.0,0.0,0.0,13.0,38.81,0.00,23.21
+Sony Michel,rb,2,17,1,0,17,8.5,0.5,0.0,8.5,25.37,1.61,15.18
+Rex Burkhead,,2,13,6,4,17,6.5,3.0,2.0,8.5,19.40,9.68,15.18
+J.J. Taylor,,2,5,1,1,6,2.5,0.5,0.5,3.0,7.46,1.61,5.36
+James White,,1,5,3,3,8,5.0,3.0,3.0,8.0,7.46,4.84,7.14
+Julian Edelman,,2,1,18,13,14,0.5,9.0,6.5,7.0,1.49,29.03,12.50
+N'Keal Harry,wr,2,0,18,13,13,0,9.0,6.5,6.5,0,29.03,11.61
+Damiere Byrd,wr,2,0,9,6,6,0,4.5,3.0,3.0,0,14.52,5.36
+Ryan Izzo,te,2,0,4,3,3,0,2.0,1.5,1.5,0,6.45,2.68
+Jakob Johnson,fb,2,0,1,1,1,0,0.5,0.5,0.5,0,1.61,0.89
+Jakobi Meyers,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.61,0.89
+totals,,2,67,62,45,112,33.5,31.0,22.5,56.0
+
+Buffalo Bills
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Devin Singletary,rb,2,19,10,7,26,9.5,5.0,3.5,13.0,34.55,12.50,23.21
+Josh Allen,qb,2,18,0,0,18,9.0,0.0,0.0,9.0,32.73,0.00,16.07
+Zack Moss,,2,17,4,3,20,8.5,2.0,1.5,10.0,30.91,5.00,17.86
+Gabriel Davis,wr,2,1,3,3,4,0.5,1.5,1.5,2.0,1.82,3.75,3.57
+Stefon Diggs,wr,2,0,22,16,16,0,11.0,8.0,8.0,0,27.50,14.29
+John Brown,wr,2,0,16,10,10,0,8.0,5.0,5.0,0,20.00,8.93
+Cole Beasley,wr,2,0,13,9,9,0,6.5,4.5,4.5,0,16.25,8.04
+Isaiah McKenzie,,2,0,5,5,5,0,2.5,2.5,2.5,0,6.25,4.46
+Dawson Knox,te,2,0,6,3,3,0,3.0,1.5,1.5,0,7.50,2.68
+Reggie Gilliam,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.25,0.89
+totals,,2,55,80,57,112,27.5,40.0,28.5,56.0
+
+Miami Dolphins
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Myles Gaskin,,2,16,11,10,26,8.0,5.5,5.0,13.0,32.65,14.47,26.00
+Jordan Howard,rb,2,13,0,0,13,6.5,0.0,0.0,6.5,26.53,0.00,13.00
+Matt Breida,,2,12,2,1,13,6.0,1.0,0.5,6.5,24.49,2.63,13.00
+Ryan Fitzpatrick,qb,2,8,0,0,8,4.0,0.0,0.0,4.0,16.33,0.00,8.00
+Mike Gesicki,te,2,0,16,11,11,0,8.0,5.5,5.5,0,21.05,11.00
+Isaiah Ford,,2,0,14,9,9,0,7.0,4.5,4.5,0,18.42,9.00
+DeVante Parker,wr,2,0,12,9,9,0,6.0,4.5,4.5,0,15.79,9.00
+Jakeem Grant,,2,0,4,4,4,0,2.0,2.0,2.0,0,5.26,4.00
+Preston Williams,wr,2,0,12,3,3,0,6.0,1.5,1.5,0,15.79,3.00
+Patrick Laird,,2,0,2,2,2,0,1.0,1.0,1.0,0,2.63,2.00
+Lynn Bowden Jr.,,1,0,1,1,1,0,1.0,1.0,1.0,0,1.32,1.00
+Adam Shaheen,,2,0,2,1,1,0,1.0,0.5,0.5,0,2.63,1.00
+totals,,2,49,76,51,100,24.5,38.0,25.5,50.0
+
+New York Jets
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Frank Gore,rb,2,27,2,0,27,13.5,1.0,0.0,13.5,61.36,3.08,31.40
+Le'Veon Bell,rb,1,6,2,2,8,6.0,2.0,2.0,8.0,13.64,3.08,9.30
+Josh Adams,,2,3,2,2,5,1.5,1.0,1.0,2.5,6.82,3.08,5.81
+Sam Darnold,qb,2,3,0,0,3,1.5,0.0,0.0,1.5,6.82,0.00,3.49
+La'Mical Perine,,1,3,0,0,3,3.0,0.0,0.0,3.0,6.82,0.00,3.49
+Kalen Ballage,,1,1,2,2,3,1.0,2.0,2.0,3.0,2.27,3.08,3.49
+Josh Malone,,2,1,6,4,5,0.5,3.0,2.0,2.5,2.27,9.23,5.81
+Jamison Crowder,wr,1,0,13,7,7,0,13.0,7.0,7.0,0,20.00,8.14
+Chris Herndon,te,2,0,11,7,7,0,5.5,3.5,3.5,0,16.92,8.14
+Chris Hogan,wr,2,0,12,7,7,0,6.0,3.5,3.5,0,18.46,8.14
+Braxton Berrios,,2,0,8,6,6,0,4.0,3.0,3.0,0,12.31,6.98
+Breshad Perriman,wr,2,0,7,5,5,0,3.5,2.5,2.5,0,10.77,5.81
+totals,,2,44,65,42,86,22.0,32.5,21.0,43.0
+
+Baltimore Ravens
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Lamar Jackson,qb,2,23,0,0,23,11.5,0.0,0.0,11.5,34.33,0.00,21.70
+Mark Ingram,rb,2,19,3,2,21,9.5,1.5,1.0,10.5,28.36,6.25,19.81
+Gus Edwards,,2,14,0,0,14,7.0,0.0,0.0,7.0,20.90,0.00,13.21
+J.K. Dobbins,,2,9,1,1,10,4.5,0.5,0.5,5.0,13.43,2.08,9.43
+Robert Griffin III,,1,1,0,0,1,1.0,0.0,0.0,1.0,1.49,0.00,0.94
+Patrick Ricard,fb,2,1,2,2,3,0.5,1.0,1.0,1.5,1.49,4.17,2.83
+Marquise Brown,wr,2,0,12,10,10,0,6.0,5.0,5.0,0,25.00,9.43
+Miles Boykin,wr,2,0,9,7,7,0,4.5,3.5,3.5,0,18.75,6.60
+Mark Andrews,,2,0,9,6,6,0,4.5,3.0,3.0,0,18.75,5.66
+Willie Snead,wr,2,0,6,6,6,0,3.0,3.0,3.0,0,12.50,5.66
+Nick Boyle,te,2,0,4,3,3,0,2.0,1.5,1.5,0,8.33,2.83
+Devin Duvernay,,2,0,2,2,2,0,1.0,1.0,1.0,0,4.17,1.89
+totals,,2,67,48,39,106,33.5,24.0,19.5,53.0
+
+Pittsburgh Steelers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+James Conner,rb,2,22,6,4,26,11.0,3.0,2.0,13.0,42.31,8.33,25.49
+Benny Snell Jr.,,2,22,2,1,23,11.0,1.0,0.5,11.5,42.31,2.78,22.55
+Ben Roethlisberger,qb,2,6,0,0,6,3.0,0.0,0.0,3.0,11.54,0.00,5.88
+Chase Claypool,,2,1,5,5,6,0.5,2.5,2.5,3.0,1.92,6.94,5.88
+Jaylen Samuels,,2,1,3,2,3,0.5,1.5,1.0,1.5,1.92,4.17,2.94
+Diontae Johnson,wr,2,0,23,14,14,0,11.5,7.0,7.0,0,31.94,13.73
+JuJu Smith-Schuster,wr,2,0,14,13,13,0,7.0,6.5,6.5,0,19.44,12.75
+James Washington,wr,2,0,8,5,5,0,4.0,2.5,2.5,0,11.11,4.90
+Eric Ebron,te,2,0,7,4,4,0,3.5,2.0,2.0,0,9.72,3.92
+Vance McDonald,te,2,0,4,2,2,0,2.0,1.0,1.0,0,5.56,1.96
+totals,,2,52,72,50,102,26.0,36.0,25.0,51.0
+
+Cleveland Browns
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Nick Chubb,rb,2,32,2,2,34,16.0,1.0,1.0,17.0,51.61,3.57,34.34
+Kareem Hunt,,2,23,8,6,29,11.5,4.0,3.0,14.5,37.10,14.29,29.29
+Baker Mayfield,qb,2,5,0,0,5,2.5,0.0,0.0,2.5,8.06,0.00,5.05
+Jamie Gillan,p,2,1,0,0,1,0.5,0.0,0.0,0.5,1.61,0.00,1.01
+D'Ernest Johnson,,2,1,0,0,1,0.5,0.0,0.0,0.5,1.61,0.00,1.01
+Jarvis Landry,wr,2,0,9,8,8,0,4.5,4.0,4.0,0,16.07,8.08
+Odell Beckham Jr.,wr,2,0,16,7,7,0,8.0,3.5,3.5,0,28.57,7.07
+Austin Hooper,te,2,0,6,4,4,0,3.0,2.0,2.0,0,10.71,4.04
+KhaDarel Hodge,,2,0,5,3,3,0,2.5,1.5,1.5,0,8.93,3.03
+David Njoku,,1,0,3,3,3,0,3.0,3.0,3.0,0,5.36,3.03
+Harrison Bryant,te,2,0,4,2,2,0,2.0,1.0,1.0,0,7.14,2.02
+Rashard Higgins,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.79,1.01
+Andy Janovich,fb,2,0,1,1,1,0,0.5,0.5,0.5,0,1.79,1.01
+Stephen Carlson,,2,0,1,0,0,0,0.5,0.0,0.0,0,1.79,0.00
+totals,,2,62,56,37,99,31.0,28.0,18.5,49.5
+
+Cincinnati Bengals
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Joe Mixon,rb,2,35,6,5,40,17.5,3.0,2.5,20.0,67.31,6.38,35.71
+Joe Burrow,qb,2,15,0,0,15,7.5,0.0,0.0,7.5,28.85,0.00,13.39
+Giovani Bernard,,2,2,12,9,11,1.0,6.0,4.5,5.5,3.85,12.77,9.82
+Tyler Boyd,wr,2,0,13,11,11,0,6.5,5.5,5.5,0,13.83,9.82
+A.J. Green,wr,2,0,22,8,8,0,11.0,4.0,4.0,0,23.40,7.14
+Drew Sample,,2,0,10,8,8,0,5.0,4.0,4.0,0,10.64,7.14
+C.J. Uzomah,te,2,0,11,8,8,0,5.5,4.0,4.0,0,11.70,7.14
+Mike Thomas,,2,0,7,6,6,0,3.5,3.0,3.0,0,7.45,5.36
+Tee Higgins,wr,2,0,6,3,3,0,3.0,1.5,1.5,0,6.38,2.68
+John Ross,wr,2,0,7,2,2,0,3.5,1.0,1.0,0,7.45,1.79
+totals,,2,52,94,60,112,26.0,47.0,30.0,56.0
+
+Jacksonville Jaguars
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+James Robinson,rb,2,32,5,4,36,16.0,2.5,2.0,18.0,64.00,7.81,36.36
+Gardner Minshew II,qb,2,9,0,0,9,4.5,0.0,0.0,4.5,18.00,0.00,9.09
+Laviska Shenault Jr.,wr,2,7,8,6,13,3.5,4.0,3.0,6.5,14.00,12.50,13.13
+Chris Thompson,,2,2,6,5,7,1.0,3.0,2.5,3.5,4.00,9.38,7.07
+Keelan Cole,,2,0,12,11,11,0,6.0,5.5,5.5,0,18.75,11.11
+DJ Chark,wr,2,0,7,7,7,0,3.5,3.5,3.5,0,10.94,7.07
+Chris Conley,,2,0,8,5,5,0,4.0,2.5,2.5,0,12.50,5.05
+James O'Shaughnessy,te,2,0,5,5,5,0,2.5,2.5,2.5,0,7.81,5.05
+Tyler Eifert,te,2,0,7,4,4,0,3.5,2.0,2.0,0,10.94,4.04
+Collin Johnson,,2,0,4,1,1,0,2.0,0.5,0.5,0,6.25,1.01
+Bruce Miller,fb,2,0,2,1,1,0,1.0,0.5,0.5,0,3.12,1.01
+totals,,2,50,64,49,99,25.0,32.0,24.5,49.5
+
+Tennessee Titans
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Derrick Henry,rb,2,56,5,3,59,28.0,2.5,1.5,29.5,82.35,7.81,51.30
+Ryan Tannehill,qb,2,7,0,0,7,3.5,0.0,0.0,3.5,10.29,0.00,6.09
+Jeremy McNichols,,2,2,1,0,2,1.0,0.5,0.0,1.0,2.94,1.56,1.74
+Senorise Perry,,2,2,0,0,2,1.0,0.0,0.0,1.0,2.94,0.00,1.74
+Cameron Batson,,1,1,2,2,3,1.0,2.0,2.0,3.0,1.47,3.12,2.61
+Adam Humphries,,2,0,13,11,11,0,6.5,5.5,5.5,0,20.31,9.57
+Corey Davis,wr,2,0,13,10,10,0,6.5,5.0,5.0,0,20.31,8.70
+Jonnu Smith,te,2,0,12,8,8,0,6.0,4.0,4.0,0,18.75,6.96
+Anthony Firkser,,2,0,6,6,6,0,3.0,3.0,3.0,0,9.38,5.22
+A.J. Brown,wr,1,0,8,5,5,0,8.0,5.0,5.0,0,12.50,4.35
+Khari Blasingame,fb,2,0,1,1,1,0,0.5,0.5,0.5,0,1.56,0.87
+MyCole Pruitt,te,2,0,1,1,1,0,0.5,0.5,0.5,0,1.56,0.87
+Kalif Raymond,wr,2,0,2,0,0,0,1.0,0.0,0.0,0,3.12,0.00
+totals,,2,68,64,47,115,34.0,32.0,23.5,57.5
+
+Indianapolis Colts
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Jonathan Taylor,rb,2,35,8,8,43,17.5,4.0,4.0,21.5,56.45,11.27,36.75
+Jordan Wilkins,,2,9,0,0,9,4.5,0.0,0.0,4.5,14.52,0.00,7.69
+Nyheim Hines,,2,7,9,9,16,3.5,4.5,4.5,8.0,11.29,12.68,13.68
+Philip Rivers,qb,2,5,0,0,5,2.5,0.0,0.0,2.5,8.06,0.00,4.27
+Marlon Mack,rb,1,4,3,3,7,4.0,3.0,3.0,7.0,6.45,4.23,5.98
+Parris Campbell,wr,2,2,9,6,8,1.0,4.5,3.0,4.0,3.23,12.68,6.84
+Mo Alie-Cox,te,2,0,8,7,7,0,4.0,3.5,3.5,0,11.27,5.98
+T.Y. Hilton,wr,2,0,14,7,7,0,7.0,3.5,3.5,0,19.72,5.98
+Michael Pittman Jr.,,2,0,8,6,6,0,4.0,3.0,3.0,0,11.27,5.13
+Zach Pascal,wr,2,0,7,5,5,0,3.5,2.5,2.5,0,9.86,4.27
+Jack Doyle,te,1,0,4,3,3,0,4.0,3.0,3.0,0,5.63,2.56
+Ashton Dulin,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.41,0.85
+totals,,2,62,71,55,117,31.0,35.5,27.5,58.5
+
+Houston Texans
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+David Johnson,rb,2,22,8,5,27,11.0,4.0,2.5,13.5,56.41,12.31,32.14
+Deshaun Watson,qb,2,11,0,0,11,5.5,0.0,0.0,5.5,28.21,0.00,13.10
+Duke Johnson,,1,5,1,0,5,5.0,1.0,0.0,5.0,12.82,1.54,5.95
+Will Fuller,wr,2,1,10,8,9,0.5,5.0,4.0,4.5,2.56,15.38,10.71
+Jordan Akins,te,2,0,9,9,9,0,4.5,4.5,4.5,0,13.85,10.71
+Randall Cobb,,2,0,9,7,7,0,4.5,3.5,3.5,0,13.85,8.33
+Brandin Cooks,wr,2,0,13,7,7,0,6.5,3.5,3.5,0,20.00,8.33
+Darren Fells,te,2,0,6,4,4,0,3.0,2.0,2.0,0,9.23,4.76
+Keke Coutee,,1,0,2,2,2,0,2.0,2.0,2.0,0,3.08,2.38
+Kenny Stills,,2,0,5,2,2,0,2.5,1.0,1.0,0,7.69,2.38
+DeAndre Carter,,2,0,2,1,1,0,1.0,0.5,0.5,0,3.08,1.19
+totals,,2,39,65,45,84,19.5,32.5,22.5,42.0
+
+Los Angeles Chargers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Austin Ekeler,rb,2,35,5,5,40,17.5,2.5,2.5,20.0,42.17,8.33,33.06
+Joshua Kelley,,2,35,3,2,37,17.5,1.5,1.0,18.5,42.17,5.00,30.58
+Tyrod Taylor,qb,1,6,0,0,6,6.0,0.0,0.0,6.0,7.23,0.00,4.96
+Justin Herbert,qb,1,4,0,0,4,4.0,0.0,0.0,4.0,4.82,0.00,3.31
+Justin Jackson,,1,2,0,0,2,2.0,0.0,0.0,2.0,2.41,0.00,1.65
+Joe Reed,,2,1,0,0,1,0.5,0.0,0.0,0.5,1.20,0.00,0.83
+Keenan Allen,wr,2,0,18,11,11,0,9.0,5.5,5.5,0,30.00,9.09
+Hunter Henry,te,2,0,16,11,11,0,8.0,5.5,5.5,0,26.67,9.09
+Mike Williams,wr,2,0,13,6,6,0,6.5,3.0,3.0,0,21.67,4.96
+Jalen Guyton,wr,2,0,3,2,2,0,1.5,1.0,1.0,0,5.00,1.65
+Virgil Green,te,2,0,2,1,1,0,1.0,0.5,0.5,0,3.33,0.83
+totals,,2,83,60,38,121,41.5,30.0,19.0,60.5
+
+Kansas City Chiefs
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Clyde Edwards-Helaire,rb,2,35,10,6,41,17.5,5.0,3.0,20.5,62.50,12.99,38.32
+Darrel Williams,,2,7,3,3,10,3.5,1.5,1.5,5.0,12.50,3.90,9.35
+Patrick Mahomes,qb,2,6,0,0,6,3.0,0.0,0.0,3.0,10.71,0.00,5.61
+Darwin Thompson,,2,4,1,0,4,2.0,0.5,0.0,2.0,7.14,1.30,3.74
+Mecole Hardman,wr,2,1,4,3,4,0.5,2.0,1.5,2.0,1.79,5.19,3.74
+Tyreek Hill,wr,2,1,17,10,11,0.5,8.5,5.0,5.5,1.79,22.08,10.28
+Anthony Sherman,,2,1,0,0,1,0.5,0.0,0.0,0.5,1.79,0.00,0.93
+Sammy Watkins,wr,2,1,12,8,9,0.5,6.0,4.0,4.5,1.79,15.58,8.41
+Travis Kelce,te,2,0,20,15,15,0,10.0,7.5,7.5,0,25.97,14.02
+Demarcus Robinson,wr,2,0,10,6,6,0,5.0,3.0,3.0,0,12.99,5.61
+totals,,2,56,77,51,107,28.0,38.5,25.5,53.5
+
+Las Vegas Raiders
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Josh Jacobs,rb,2,52,9,7,59,26.0,4.5,3.5,29.5,78.79,14.52,50.86
+Devontae Booker,,2,7,4,4,11,3.5,2.0,2.0,5.5,10.61,6.45,9.48
+Derek Carr,qb,2,3,0,0,3,1.5,0.0,0.0,1.5,4.55,0.00,2.59
+Jalen Richard,,2,2,1,1,3,1.0,0.5,0.5,1.5,3.03,1.61,2.59
+Henry Ruggs III,wr,2,2,8,4,6,1.0,4.0,2.0,3.0,3.03,12.90,5.17
+Darren Waller,te,2,0,24,18,18,0,12.0,9.0,9.0,0,38.71,15.52
+Hunter Renfrow,,2,0,5,5,5,0,2.5,2.5,2.5,0,8.06,4.31
+Bryan Edwards,wr,2,0,3,3,3,0,1.5,1.5,1.5,0,4.84,2.59
+Nelson Agholor,,2,0,2,2,2,0,1.0,1.0,1.0,0,3.23,1.72
+Alec Ingold,,2,0,2,2,2,0,1.0,1.0,1.0,0,3.23,1.72
+Jason Witten,te,2,0,2,2,2,0,1.0,1.0,1.0,0,3.23,1.72
+Zay Jones,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.61,0.86
+Foster Moreau,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.61,0.86
+totals,,2,66,62,50,116,33.0,31.0,25.0,58.0
+
+Denver Broncos
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Melvin Gordon,rb,2,34,6,5,39,17.0,3.0,2.5,19.5,65.38,8.57,41.94
+Phillip Lindsay,rb,1,7,1,1,8,7.0,1.0,1.0,8.0,13.46,1.43,8.60
+Royce Freeman,,2,4,1,1,5,2.0,0.5,0.5,2.5,7.69,1.43,5.38
+Drew Lock,qb,2,3,0,0,3,1.5,0.0,0.0,1.5,5.77,0.00,3.23
+Jeff Driskel,,1,2,0,0,2,2.0,0.0,0.0,2.0,3.85,0.00,2.15
+KJ Hamler,,1,1,7,3,4,1.0,7.0,3.0,4.0,1.92,10.00,4.30
+Sam Martin,p,2,1,0,0,1,0.5,0.0,0.0,0.5,1.92,0.00,1.08
+Noah Fant,te,2,0,11,9,9,0,5.5,4.5,4.5,0,15.71,9.68
+Jerry Jeudy,wr,2,0,15,8,8,0,7.5,4.0,4.0,0,21.43,8.60
+Tim Patrick,wr,2,0,10,6,6,0,5.0,3.0,3.0,0,14.29,6.45
+Courtland Sutton,wr,1,0,6,3,3,0,6.0,3.0,3.0,0,8.57,3.23
+DaeSean Hamilton,wr,2,0,6,2,2,0,3.0,1.0,1.0,0,8.57,2.15
+Jake Butt,,2,0,2,1,1,0,1.0,0.5,0.5,0,2.86,1.08
+Tyrie Cleveland,,1,0,1,1,1,0,1.0,1.0,1.0,0,1.43,1.08
+Nick Vannett,,2,0,4,1,1,0,2.0,0.5,0.5,0,5.71,1.08
+totals,,2,52,70,41,93,26.0,35.0,20.5,46.5
+
+Washington Football Team
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Antonio Gibson,rb,2,22,4,3,25,11.0,2.0,1.5,12.5,37.29,6.35,26.32
+Peyton Barber,,2,18,0,0,18,9.0,0.0,0.0,9.0,30.51,0.00,18.95
+J.D. McKissic,rb,2,11,5,1,12,5.5,2.5,0.5,6.0,18.64,7.94,12.63
+Dwayne Haskins,qb,2,8,0,0,8,4.0,0.0,0.0,4.0,13.56,0.00,8.42
+Terry McLaurin,wr,2,0,17,12,12,0,8.5,6.0,6.0,0,26.98,12.63
+Logan Thomas,te,2,0,17,8,8,0,8.5,4.0,4.0,0,26.98,8.42
+Steven Sims,wr,2,0,8,6,6,0,4.0,3.0,3.0,0,12.70,6.32
+Dontrelle Inman,,2,0,10,4,4,0,5.0,2.0,2.0,0,15.87,4.21
+Marcus Baugh,te,2,0,1,1,1,0,0.5,0.5,0.5,0,1.59,1.05
+Antonio Gandy-Golden,,1,0,1,1,1,0,1.0,1.0,1.0,0,1.59,1.05
+totals,,2,59,63,36,95,29.5,31.5,18.0,47.5
+
+New York Giants
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Saquon Barkley,rb,2,19,9,6,25,9.5,4.5,3.0,12.5,50.00,12.00,28.09
+Dion Lewis,,2,11,6,4,15,5.5,3.0,2.0,7.5,28.95,8.00,16.85
+Daniel Jones,qb,2,7,0,0,7,3.5,0.0,0.0,3.5,18.42,0.00,7.87
+Sterling Shepard,wr,2,1,10,8,9,0.5,5.0,4.0,4.5,2.63,13.33,10.11
+Darius Slayton,wr,2,0,15,9,9,0,7.5,4.5,4.5,0,20.00,10.11
+Evan Engram,te,2,0,15,8,8,0,7.5,4.0,4.0,0,20.00,8.99
+C.J. Board,,2,0,5,5,5,0,2.5,2.5,2.5,0,6.67,5.62
+Golden Tate,,1,0,5,5,5,0,5.0,5.0,5.0,0,6.67,5.62
+Kaden Smith,te,2,0,5,4,4,0,2.5,2.0,2.0,0,6.67,4.49
+Wayne Gallman,,1,0,1,1,1,0,1.0,1.0,1.0,0,1.33,1.12
+Levine Toilolo,te,2,0,1,1,1,0,0.5,0.5,0.5,0,1.33,1.12
+Damion Ratley,,2,0,3,0,0,0,1.5,0.0,0.0,0,4.00,0.00
+totals,,2,38,75,51,89,19.0,37.5,25.5,44.5
+
+Philadelphia Eagles
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Miles Sanders,rb,1,20,7,3,23,20.0,7.0,3.0,23.0,46.51,8.43,24.73
+Boston Scott,rb,2,13,5,5,18,6.5,2.5,2.5,9.0,30.23,6.02,19.35
+Corey Clement,,2,6,2,2,8,3.0,1.0,1.0,4.0,13.95,2.41,8.60
+Carson Wentz,qb,2,3,0,0,3,1.5,0.0,0.0,1.5,6.98,0.00,3.23
+Jason Huntley,,1,1,0,0,1,1.0,0.0,0.0,1.0,2.33,0.00,1.08
+Dallas Goedert,te,2,0,17,12,12,0,8.5,6.0,6.0,0,20.48,12.90
+Zach Ertz,te,2,0,14,8,8,0,7.0,4.0,4.0,0,16.87,8.60
+DeSean Jackson,wr,2,0,16,8,8,0,8.0,4.0,4.0,0,19.28,8.60
+Greg Ward,wr,2,0,8,6,6,0,4.0,3.0,3.0,0,9.64,6.45
+Jalen Reagor,wr,2,0,8,5,5,0,4.0,2.5,2.5,0,9.64,5.38
+John Hightower,,2,0,4,1,1,0,2.0,0.5,0.5,0,4.82,1.08
+JJ Arcega-Whiteside,,2,0,2,0,0,0,1.0,0.0,0.0,0,2.41,0.00
+totals,,2,43,83,50,93,21.5,41.5,25.0,46.5
+
+Dallas Cowboys
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Ezekiel Elliott,rb,2,44,11,9,53,22.0,5.5,4.5,26.5,75.86,13.10,45.30
+Dak Prescott,qb,2,8,0,0,8,4.0,0.0,0.0,4.0,13.79,0.00,6.84
+Tony Pollard,rb,2,4,4,3,7,2.0,2.0,1.5,3.5,6.90,4.76,5.98
+CeeDee Lamb,wr,2,1,15,11,12,0.5,7.5,5.5,6.0,1.72,17.86,10.26
+Darian Thompson,fs,2,1,0,0,1,0.5,0.0,0.0,0.5,1.72,0.00,0.85
+Amari Cooper,wr,2,0,23,16,16,0,11.5,8.0,8.0,0,27.38,13.68
+Dalton Schultz,,2,0,14,10,10,0,7.0,5.0,5.0,0,16.67,8.55
+Michael Gallup,wr,2,0,10,5,5,0,5.0,2.5,2.5,0,11.90,4.27
+Blake Bell,,2,0,3,2,2,0,1.5,1.0,1.0,0,3.57,1.71
+Noah Brown,,2,0,2,2,2,0,1.0,1.0,1.0,0,2.38,1.71
+Blake Jarwin,te,1,0,1,1,1,0,1.0,1.0,1.0,0,1.19,0.85
+C.J. Goodwin,,2,0,1,0,0,0,0.5,0.0,0.0,0,1.19,0.00
+totals,,2,58,84,59,117,29.0,42.0,29.5,58.5
+
+Green Bay Packers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Aaron Jones,rb,2,34,14,8,42,17.0,7.0,4.0,21.0,50.75,19.72,35.90
+Jamaal Williams,,2,15,4,4,19,7.5,2.0,2.0,9.5,22.39,5.63,16.24
+AJ Dillon,,2,7,0,0,7,3.5,0.0,0.0,3.5,10.45,0.00,5.98
+Tim Boyle,,2,4,0,0,4,2.0,0.0,0.0,2.0,5.97,0.00,3.42
+Tyler Ervin,,2,3,2,2,5,1.5,1.0,1.0,2.5,4.48,2.82,4.27
+Aaron Rodgers,qb,2,3,1,1,4,1.5,0.5,0.5,2.0,4.48,1.41,3.42
+Allen Lazard,wr,2,1,9,7,8,0.5,4.5,3.5,4.0,1.49,12.68,6.84
+Davante Adams,wr,2,0,20,17,17,0,10.0,8.5,8.5,0,28.17,14.53
+Marquez Valdes-Scantling,,2,0,13,7,7,0,6.5,3.5,3.5,0,18.31,5.98
+Robert Tonyan,te,2,0,3,2,2,0,1.5,1.0,1.0,0,4.23,1.71
+Josiah Deguara,te,1,0,2,1,1,0,2.0,1.0,1.0,0,2.82,0.85
+Marcedes Lewis,te,2,0,1,1,1,0,0.5,0.5,0.5,0,1.41,0.85
+Jace Sternberger,,2,0,2,0,0,0,1.0,0.0,0.0,0,2.82,0.00
+totals,,2,67,71,50,117,33.5,35.5,25.0,58.5
+
+Chicago Bears
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+David Montgomery,rb,2,29,6,4,33,14.5,3.0,2.0,16.5,48.33,9.38,33.67
+Tarik Cohen,,2,12,3,3,15,6.0,1.5,1.5,7.5,20.00,4.69,15.31
+Cordarrelle Patterson,,2,11,3,3,14,5.5,1.5,1.5,7.0,18.33,4.69,14.29
+Mitchell Trubisky,qb,2,7,0,0,7,3.5,0.0,0.0,3.5,11.67,0.00,7.14
+Allen Robinson,wr,2,1,18,8,9,0.5,9.0,4.0,4.5,1.67,28.12,9.18
+Darnell Mooney,wr,2,0,6,6,6,0,3.0,3.0,3.0,0,9.38,6.12
+Jimmy Graham,te,2,0,8,4,4,0,4.0,2.0,2.0,0,12.50,4.08
+Anthony Miller,,2,0,9,4,4,0,4.5,2.0,2.0,0,14.06,4.08
+Javon Wims,wr,2,0,4,3,3,0,2.0,1.5,1.5,0,6.25,3.06
+Cole Kmet,,2,0,2,1,1,0,1.0,0.5,0.5,0,3.12,1.02
+Bobby Massie,t,2,0,1,1,1,0,0.5,0.5,0.5,0,1.56,1.02
+Ryan Nall,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.56,1.02
+Ted Ginn Jr.,,1,0,1,0,0,0,1.0,0.0,0.0,0,1.56,0.00
+Demetrius Harris,te,2,0,2,0,0,0,1.0,0.0,0.0,0,3.12,0.00
+totals,,2,60,64,38,98,30.0,32.0,19.0,49.0
+
+Minnesota Vikings
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Dalvin Cook,rb,2,26,4,3,29,13.0,2.0,1.5,14.5,65.00,8.33,41.43
+Alexander Mattison,,2,9,6,5,14,4.5,3.0,2.5,7.0,22.50,12.50,20.00
+Kirk Cousins,qb,2,4,0,0,4,2.0,0.0,0.0,2.0,10.00,0.00,5.71
+C.J. Ham,fb,2,1,0,0,1,0.5,0.0,0.0,0.5,2.50,0.00,1.43
+Adam Thielen,wr,2,0,16,9,9,0,8.0,4.5,4.5,0,33.33,12.86
+Justin Jefferson,,2,0,6,5,5,0,3.0,2.5,2.5,0,12.50,7.14
+Olabisi Johnson,wr,2,0,7,4,4,0,3.5,2.0,2.0,0,14.58,5.71
+Kyle Rudolph,te,2,0,3,2,2,0,1.5,1.0,1.0,0,6.25,2.86
+Irv Smith Jr.,te,2,0,5,2,2,0,2.5,1.0,1.0,0,10.42,2.86
+Tajae Sharpe,,2,0,1,0,0,0,0.5,0.0,0.0,0,2.08,0.00
+totals,,2,40,48,30,70,20.0,24.0,15.0,35.0
+
+Detroit Lions
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Adrian Peterson,,2,21,3,3,24,10.5,1.5,1.5,12.0,42.00,4.23,25.53
+Kerryon Johnson,rb,2,15,1,0,15,7.5,0.5,0.0,7.5,30.00,1.41,15.96
+D'Andre Swift,,2,8,10,8,16,4.0,5.0,4.0,8.0,16.00,14.08,17.02
+Matthew Stafford,qb,2,6,0,0,6,3.0,0.0,0.0,3.0,12.00,0.00,6.38
+T.J. Hockenson,te,2,0,9,9,9,0,4.5,4.5,4.5,0,12.68,9.57
+Marvin Jones,wr,2,0,14,8,8,0,7.0,4.0,4.0,0,19.72,8.51
+Danny Amendola,,2,0,14,7,7,0,7.0,3.5,3.5,0,19.72,7.45
+Quintez Cephus,wr,2,0,13,6,6,0,6.5,3.0,3.0,0,18.31,6.38
+Marvin Hall,wr,2,0,4,2,2,0,2.0,1.0,1.0,0,5.63,2.13
+Jamal Agnew,,2,0,2,1,1,0,1.0,0.5,0.5,0,2.82,1.06
+Ty Johnson,,2,0,1,0,0,0,0.5,0.0,0.0,0,1.41,0.00
+totals,,2,50,71,44,94,25.0,35.5,22.0,47.0
+
+New Orleans Saints
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Alvin Kamara,rb,2,25,17,14,39,12.5,8.5,7.0,19.5,47.17,25.37,39.80
+Latavius Murray,,2,18,3,2,20,9.0,1.5,1.0,10.0,33.96,4.48,20.41
+Taysom Hill,qb,2,5,1,1,6,2.5,0.5,0.5,3.0,9.43,1.49,6.12
+Drew Brees,qb,2,2,0,0,2,1.0,0.0,0.0,1.0,3.77,0.00,2.04
+Deonte Harris,wr,2,2,6,4,6,1.0,3.0,2.0,3.0,3.77,8.96,6.12
+Ty Montgomery,,2,1,3,2,3,0.5,1.5,1.0,1.5,1.89,4.48,3.06
+Jared Cook,te,2,0,12,7,7,0,6.0,3.5,3.5,0,17.91,7.14
+Tre'Quan Smith,wr,2,0,8,6,6,0,4.0,3.0,3.0,0,11.94,6.12
+Emmanuel Sanders,wr,2,0,8,4,4,0,4.0,2.0,2.0,0,11.94,4.08
+Michael Thomas,wr,1,0,5,3,3,0,5.0,3.0,3.0,0,7.46,3.06
+Josh Hill,te,2,0,3,1,1,0,1.5,0.5,0.5,0,4.48,1.02
+Adam Trautman,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.49,1.02
+totals,,2,53,67,45,98,26.5,33.5,22.5,49.0
+
+Atlanta Falcons
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Todd Gurley,rb,2,35,5,2,37,17.5,2.5,1.0,18.5,63.64,5.68,31.90
+Brian Hill,,2,6,4,4,10,3.0,2.0,2.0,5.0,10.91,4.55,8.62
+Ito Smith,,2,6,3,3,9,3.0,1.5,1.5,4.5,10.91,3.41,7.76
+Matt Ryan,qb,2,5,0,0,5,2.5,0.0,0.0,2.5,9.09,0.00,4.31
+Sharrod Neasman,,2,1,0,0,1,0.5,0.0,0.0,0.5,1.82,0.00,0.86
+Calvin Ridley,wr,2,1,22,16,17,0.5,11.0,8.0,8.5,1.82,25.00,14.66
+Keith Smith,fb,2,1,2,1,2,0.5,1.0,0.5,1.0,1.82,2.27,1.72
+Russell Gage,wr,2,0,21,15,15,0,10.5,7.5,7.5,0,23.86,12.93
+Julio Jones,wr,2,0,16,11,11,0,8.0,5.5,5.5,0,18.18,9.48
+Hayden Hurst,te,2,0,13,8,8,0,6.5,4.0,4.0,0,14.77,6.90
+Olamide Zaccheaus,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.14,0.86
+Luke Stocker,,2,0,1,0,0,0,0.5,0.0,0.0,0,1.14,0.00
+totals,,2,55,88,61,116,27.5,44.0,30.5,58.0
+
+Tampa Bay Buccaneers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Ronald Jones II,rb,2,24,5,4,28,12.0,2.5,2.0,14.0,50.00,7.25,29.79
+Leonard Fournette,,2,17,6,5,22,8.5,3.0,2.5,11.0,35.42,8.70,23.40
+Tom Brady,qb,2,4,0,0,4,2.0,0.0,0.0,2.0,8.33,0.00,4.26
+Scott Miller,wr,2,2,9,7,9,1.0,4.5,3.5,4.5,4.17,13.04,9.57
+LeSean McCoy,,2,1,8,6,7,0.5,4.0,3.0,3.5,2.08,11.59,7.45
+Mike Evans,wr,2,0,14,8,8,0,7.0,4.0,4.0,0,20.29,8.51
+Chris Godwin,wr,1,0,7,6,6,0,7.0,6.0,6.0,0,10.14,6.38
+O.J. Howard,,2,0,9,5,5,0,4.5,2.5,2.5,0,13.04,5.32
+Justin Watson,wr,2,0,5,3,3,0,2.5,1.5,1.5,0,7.25,3.19
+Rob Gronkowski,te,2,0,4,2,2,0,2.0,1.0,1.0,0,5.80,2.13
+Cameron Brate,,2,0,1,0,0,0,0.5,0.0,0.0,0,1.45,0.00
+Cyril Grayson,,1,0,1,0,0,0,1.0,0.0,0.0,0,1.45,0.00
+totals,,2,48,69,46,94,24.0,34.5,23.0,47.0
+
+Carolina Panthers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Christian McCaffrey,rb,2,41,9,7,48,20.5,4.5,3.5,24.0,75.93,12.16,44.04
+Curtis Samuel,,2,5,10,7,12,2.5,5.0,3.5,6.0,9.26,13.51,11.01
+Teddy Bridgewater,qb,2,4,0,0,4,2.0,0.0,0.0,2.0,7.41,0.00,3.67
+Alex Armah,fb,2,2,1,1,3,1.0,0.5,0.5,1.5,3.70,1.35,2.75
+Jeremy Chinn,fs,2,1,0,0,1,0.5,0.0,0.0,0.5,1.85,0.00,0.92
+Mike Davis,,2,1,8,8,9,0.5,4.0,4.0,4.5,1.85,10.81,8.26
+Robby Anderson,wr,2,0,18,15,15,0,9.0,7.5,7.5,0,24.32,13.76
+D.J. Moore,wr,2,0,22,12,12,0,11.0,6.0,6.0,0,29.73,11.01
+Chris Manhertz,te,2,0,2,2,2,0,1.0,1.0,1.0,0,2.70,1.83
+Ian Thomas,te,2,0,2,2,2,0,1.0,1.0,1.0,0,2.70,1.83
+Seth Roberts,,2,0,2,1,1,0,1.0,0.5,0.5,0,2.70,0.92
+totals,,2,54,74,55,109,27.0,37.0,27.5,54.5
+
+Los Angeles Rams
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Malcolm Brown,,2,29,4,3,32,14.5,2.0,1.5,16.0,36.71,7.41,26.89
+Cam Akers,rb,2,17,1,1,18,8.5,0.5,0.5,9.0,21.52,1.85,15.13
+Darrell Henderson,,2,15,3,2,17,7.5,1.5,1.0,8.5,18.99,5.56,14.29
+Jared Goff,qb,2,11,0,0,11,5.5,0.0,0.0,5.5,13.92,0.00,9.24
+Robert Woods,wr,2,4,13,8,12,2.0,6.5,4.0,6.0,5.06,24.07,10.08
+Cooper Kupp,wr,2,2,11,9,11,1.0,5.5,4.5,5.5,2.53,20.37,9.24
+Van Jefferson,,2,1,8,5,6,0.5,4.0,2.5,3.0,1.27,14.81,5.04
+Tyler Higbee,te,2,0,9,8,8,0,4.5,4.0,4.0,0,16.67,6.72
+Josh Reynolds,wr,2,0,3,3,3,0,1.5,1.5,1.5,0,5.56,2.52
+Gerald Everett,te,2,0,2,1,1,0,1.0,0.5,0.5,0,3.70,0.84
+totals,,2,79,54,40,119,39.5,27.0,20.0,59.5
+
+Arizona Cardinals
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Kenyan Drake,rb,2,36,4,4,40,18.0,2.0,2.0,20.0,52.94,5.71,33.33
+Kyler Murray,qb,2,21,0,0,21,10.5,0.0,0.0,10.5,30.88,0.00,17.50
+Chase Edmonds,,2,9,9,6,15,4.5,4.5,3.0,7.5,13.24,12.86,12.50
+Christian Kirk,wr,2,1,9,3,4,0.5,4.5,1.5,2.0,1.47,12.86,3.33
+Chris Streveler,,2,1,0,0,1,0.5,0.0,0.0,0.5,1.47,0.00,0.83
+DeAndre Hopkins,wr,2,0,25,22,22,0,12.5,11.0,11.0,0,35.71,18.33
+Larry Fitzgerald,wr,2,0,12,11,11,0,6.0,5.5,5.5,0,17.14,9.17
+Dan Arnold,te,2,0,6,4,4,0,3.0,2.0,2.0,0,8.57,3.33
+Andy Isabella,,2,0,2,2,2,0,1.0,1.0,1.0,0,2.86,1.67
+Darrell Daniels,te,2,0,1,0,0,0,0.5,0.0,0.0,0,1.43,0.00
+Maxx Williams,,1,0,2,0,0,0,2.0,0.0,0.0,0,2.86,0.00
+totals,,2,68,70,52,120,34.0,35.0,26.0,60.0
+
+Seattle Seahawks
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Chris Carson,rb,2,23,9,9,32,11.5,4.5,4.5,16.0,46.00,15.00,31.37
+Carlos Hyde,,2,12,2,2,14,6.0,1.0,1.0,7.0,24.00,3.33,13.73
+Russell Wilson,qb,2,8,0,0,8,4.0,0.0,0.0,4.0,16.00,0.00,7.84
+Travis Homer,,2,6,2,2,8,3.0,1.0,1.0,4.0,12.00,3.33,7.84
+David Moore,wr,2,1,6,6,7,0.5,3.0,3.0,3.5,2.00,10.00,6.86
+Tyler Lockett,wr,2,0,16,15,15,0,8.0,7.5,7.5,0,26.67,14.71
+D.K. Metcalf,wr,2,0,14,8,8,0,7.0,4.0,4.0,0,23.33,7.84
+Greg Olsen,te,2,0,5,4,4,0,2.5,2.0,2.0,0,8.33,3.92
+Will Dissly,te,2,0,3,3,3,0,1.5,1.5,1.5,0,5.00,2.94
+Freddie Swain,,2,0,2,2,2,0,1.0,1.0,1.0,0,3.33,1.96
+Jacob Hollister,,2,0,1,1,1,0,0.5,0.5,0.5,0,1.67,0.98
+totals,,2,50,60,52,102,25.0,30.0,26.0,51.0
+
+San Francisco 49ers
+player,pos,g,rush att,targets,rec,touches,avg att,avg targets,avg rec,avg touches,rush share,target share,touch share
+Raheem Mostert,rb,2,23,7,6,29,11.5,3.5,3.0,14.5,42.59,11.86,30.53
+Tevin Coleman,,2,18,4,3,21,9.0,2.0,1.5,10.5,33.33,6.78,22.11
+Jerick McKinnon,,2,6,6,3,9,3.0,3.0,1.5,4.5,11.11,10.17,9.47
+Nick Mullens,,1,2,0,0,2,2.0,0.0,0.0,2.0,3.70,0.00,2.11
+Jeff Wilson,,2,2,0,0,2,1.0,0.0,0.0,1.0,3.70,0.00,2.11
+Jimmy Garoppolo,qb,2,1,0,0,1,0.5,0.0,0.0,0.5,1.85,0.00,1.05
+Kyle Juszczyk,fb,2,1,4,3,4,0.5,2.0,1.5,2.0,1.85,6.78,4.21
+George Kittle,te,1,1,5,4,5,1.0,5.0,4.0,5.0,1.85,8.47,5.26
+Jordan Reed,,2,0,10,9,9,0,5.0,4.5,4.5,0,16.95,9.47
+Kendrick Bourne,wr,2,0,10,6,6,0,5.0,3.0,3.0,0,16.95,6.32
+Trent Taylor,,2,0,8,4,4,0,4.0,2.0,2.0,0,13.56,4.21
+Brandon Aiyuk,wr,1,0,3,2,2,0,3.0,2.0,2.0,0,5.08,2.11
+Ross Dwelley,te,2,0,1,1,1,0,0.5,0.5,0.5,0,1.69,1.05
+Dante Pettis,wr,2,0,1,0,0,0,0.5,0.0,0.0,0,1.69,0.00
+totals,,2,54,59,41,95,27.0,29.5,20.5,47.5
+
